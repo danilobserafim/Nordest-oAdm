@@ -1,0 +1,18 @@
+body{
+    background-color: orange;
+}
+div#corpo{
+    background-color: white;
+    width: 50%;
+    border-radius: 10px;
+    padding: 2px;
+    text-align: center;
+    margin-top: 18%;
+    margin-left: 23%;
+    box-shadow: 2px 2px 100px rgb(241, 241, 50);
+    color: green;
+    
+}
+p{
+    padding: 2px;
+}

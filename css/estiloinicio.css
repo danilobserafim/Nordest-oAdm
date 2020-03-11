@@ -1,0 +1,25 @@
+
+body{
+    background-color: orange;
+}
+
+div#alternar{   
+    width: 80%;
+    text-align: center;
+    padding: 2px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 3px;    
+}
+.controle{
+    width: 15%;
+    margin-right: 3%;
+}
+iframe#conteudo{
+    width: 100%; 
+    height: 500px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 30px yellow;
+    border: groove 1px orange;    
+    background-image: url('../imagens/imginicio.png');
+}

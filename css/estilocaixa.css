@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+div#produtos{
+    width: 48%;
+    height: 480px;
+    box-shadow:1px 1px 5px orange;
+    margin-left: 1%;
+    border-radius: 10px;
+}
+aside#pedido{
+    width: 48%;
+    height: 480px;
+    float: right;
+    margin-right: 1%;   
+    
+}
+div#pedido{
+    height: 350px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px orange;
+}
+div#total{  
+    height:120px ;
+    margin-top: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px orange;
+}
